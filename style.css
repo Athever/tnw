@@ -409,3 +409,8 @@ footer ol li a:hover {
     font-size: 11px !important;
   }
 }
+@media only screen and (max-width: 500px) {
+  .i {
+    padding-top: 295px !important;
+  }
+}
